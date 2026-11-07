@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+ xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:wp="http://wordpress.org/export/1.2/">
+<channel><title>EMO Demo Content</title><link>https://example.com</link><description>محتوای نمونه قالب EMO</description><pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate><language>fa-IR</language><wp:wxr_version>1.2</wp:wxr_version>
+
+<item>
+<title>Google Chrome</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>مرورگر سریع گوگل برای وب‌گردی، همگام‌سازی و استفاده از افزونه‌ها.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[مرورگر سریع گوگل برای وب‌گردی، همگام‌سازی و استفاده از افزونه‌ها.]]></excerpt:encoded>
+<wp:post_id>1001</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>google-chrome</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="مرورگر"><![CDATA[مرورگر]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.google.com/chrome/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Mozilla Firefox</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>مرورگر متن‌باز با امکانات حریم خصوصی و افزونه‌های متنوع.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[مرورگر متن‌باز با امکانات حریم خصوصی و افزونه‌های متنوع.]]></excerpt:encoded>
+<wp:post_id>1002</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>mozilla-firefox</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="مرورگر"><![CDATA[مرورگر]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.mozilla.org/firefox/new/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>VLC Media Player</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>پخش‌کننده چندرسانه‌ای رایگان با پشتیبانی از قالب‌های گوناگون فایل صوتی و تصویری.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[پخش‌کننده چندرسانه‌ای رایگان با پشتیبانی از قالب‌های گوناگون فایل صوتی و تصویری.]]></excerpt:encoded>
+<wp:post_id>1003</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>vlc-media-player</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="چندرسانه‌ای"><![CDATA[چندرسانه‌ای]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.videolan.org/vlc/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>7-Zip</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>ابزار فشرده‌سازی و استخراج فایل‌های آرشیو.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[ابزار فشرده‌سازی و استخراج فایل‌های آرشیو.]]></excerpt:encoded>
+<wp:post_id>1004</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>7-zip</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="ابزار سیستم"><![CDATA[ابزار سیستم]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.7-zip.org/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>WinRAR</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>ابزار مدیریت فایل‌های فشرده؛ برای دریافت نسخه و شرایط مجوز به وب‌سایت سازنده مراجعه کنید.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[ابزار مدیریت فایل‌های فشرده؛ برای دریافت نسخه و شرایط مجوز به وب‌سایت سازنده مراجعه کنید.]]></excerpt:encoded>
+<wp:post_id>1005</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>winrar</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="ابزار سیستم"><![CDATA[ابزار سیستم]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.win-rar.com/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Visual Studio Code</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>ویرایشگر کد سبک و قابل توسعه برای زبان‌ها و ابزارهای برنامه‌نویسی مختلف.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[ویرایشگر کد سبک و قابل توسعه برای زبان‌ها و ابزارهای برنامه‌نویسی مختلف.]]></excerpt:encoded>
+<wp:post_id>1006</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>visual-studio-code</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="برنامه‌نویسی"><![CDATA[برنامه‌نویسی]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://code.visualstudio.com/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Blender</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>نرم‌افزار متن‌باز ساخت مدل سه‌بعدی، انیمیشن و جلوه‌های بصری.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[نرم‌افزار متن‌باز ساخت مدل سه‌بعدی، انیمیشن و جلوه‌های بصری.]]></excerpt:encoded>
+<wp:post_id>1007</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>blender</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="گرافیک"><![CDATA[گرافیک]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.blender.org/download/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>GIMP</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>ویرایشگر تصویر متن‌باز برای کارهای گرافیکی و ویرایش عکس.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[ویرایشگر تصویر متن‌باز برای کارهای گرافیکی و ویرایش عکس.]]></excerpt:encoded>
+<wp:post_id>1008</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>gimp</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="گرافیک"><![CDATA[گرافیک]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.gimp.org/downloads/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Telegram</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>پیام‌رسان چندسکویی؛ نسخه‌های رسمی را از وب‌سایت تلگرام دریافت کنید.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[پیام‌رسان چندسکویی؛ نسخه‌های رسمی را از وب‌سایت تلگرام دریافت کنید.]]></excerpt:encoded>
+<wp:post_id>1009</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>telegram</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="اینترنت و ارتباطات"><![CDATA[اینترنت و ارتباطات]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://telegram.org/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس، اندروید]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Audacity</title><dc:creator><![CDATA[admin]]></dc:creator>
+<content:encoded><![CDATA[<p>نرم‌افزار متن‌باز ضبط و ویرایش صدا.</p><p>برای دریافت برنامه، از وب‌سایت رسمی سازنده استفاده کنید. پیش از نصب، نسخه و سازگاری آن را بررسی کنید.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[نرم‌افزار متن‌باز ضبط و ویرایش صدا.]]></excerpt:encoded>
+<wp:post_id>1010</wp:post_id><wp:post_date>2026-11-07 12:00:00</wp:post_date><wp:post_date_gmt>2026-11-07 12:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status><wp:ping_status>closed</wp:ping_status>
+<wp:post_name>audacity</wp:post_name><wp:status>publish</wp:status><wp:post_type>software</wp:post_type>
+<category domain="software_category" nicename="چندرسانه‌ای"><![CDATA[چندرسانه‌ای]]></category>
+<wp:postmeta><wp:meta_key>_emo_download_url</wp:meta_key><wp:meta_value><![CDATA[https://www.audacityteam.org/download/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key>_emo_platform</wp:meta_key><wp:meta_value><![CDATA[ویندوز، مک، لینوکس]]></wp:meta_value></wp:postmeta>
+</item>
+</channel></rss>
